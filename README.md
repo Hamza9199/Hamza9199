@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I’m currently working on random projects, and trying to learn more.
+
+Be free to ask me about anything and check some apps i do.
+
+Programming languages:
+c++, javascipt, html/css.
+
 <!--
 **Hamza9199/Hamza9199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
