@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Hamza. 👋
 
 I’m currently working on random projects, and trying to learn more.
 
