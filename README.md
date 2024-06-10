@@ -4,7 +4,7 @@ I’m currently working on random projects, and trying to learn more.
 
 Be free to ask me about anything and check some apps i do.
 
-Programming languages:
+Programming skills:
 c++, c, python, django, javascript, nodejs, react, html/css, sql, mongodb.
 
 <!--
