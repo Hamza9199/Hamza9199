@@ -5,7 +5,7 @@ I’m currently working on random projects, and trying to learn more.
 Be free to ask me about anything and check some apps i do.
 
 Programming skills:
-C++, C, C#, ASP.NET, PYTHON, DJANGO, JAVASCRIPT, TYPESCRIPT, PHP, NODEJS, REACT, HTML/CSS, SQL, MONGODB.
+C++, C, C#, ASP.NET, PYTHON, DJANGO, JAVA, SPRINGBOOT, JAVASCRIPT, TYPESCRIPT, PHP, NODEJS, REACT, HTML/CSS, SQL, MONGODB.
 
 <!--
 **Hamza9199/Hamza9199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
