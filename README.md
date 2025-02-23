@@ -1,6 +1,6 @@
 
 #### 💫 About Me:
- Hi there, my name is Hamza. 👋<br><br>I’m currently working on random projects, and trying to learn more.<br><br>Be free to ask me about anything and check some apps i do.
+## Hi there, my name is Hamza. 👋<br><br>I’m currently working on random projects, and trying to learn more.<br><br>Be free to ask me about anything and check some apps i do.
 
 
 ## 🌐 Socials:
