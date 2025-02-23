@@ -3,10 +3,7 @@
 ## Hi there, my name is Hamza. 👋<br><br>I’m currently working on random projects, and trying to learn more.<br><br>Be free to ask me about anything and check some apps i do.
 
 ## 🌐 Socials:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-gacic-dev/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamza.gacic.22@size.ba)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/hamza.1_____/?hl=hr)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Hamza9199)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-gacic-dev/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamza.gacic.22@size.ba)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/hamza.1_____/?hl=hr)  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Hamza9199)  
 
 
 # 💻 Tech Stack:
