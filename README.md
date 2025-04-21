@@ -11,7 +11,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hamza9199&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hamza9199&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza9199&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
